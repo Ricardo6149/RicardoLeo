@@ -13,7 +13,7 @@ export const SITE = {
   description: '记录 Ricardo 的不枯燥生活',
   profileContent: '我是Ricardo，目前生活在合肥的开发者。',
   keywords: 'Ricardo, Blog',
-  coordinate: [118.888175, 32.048268],
+  coordinate: [117.23,31.81],
   icon: 'https://cdn.jsdelivr.net/gh/pinky-pig/pic-bed/imageslogo.svg',
   pic: 'https://cdn.fliggy.coblogPagem/upic/2XFNGI.png',
   cv: 'https://cv.mmeme.me/',
